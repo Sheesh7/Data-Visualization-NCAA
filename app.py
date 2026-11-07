@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-DATA_DIR = "data"
+DATA_DIR = "OneDrive/Documents/Data_Vis_NCAA/data"
 
 @st.cache_data
 def load_wpa_data():
